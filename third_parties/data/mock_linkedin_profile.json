@@ -1,0 +1,211 @@
+﻿{
+  "public_identifier": "eden-marco",
+  "profile_pic_url": "https://storage.googleapis.com/misc-production1/me.jpeg",
+  "background_cover_image_url": null,
+  "first_name": "Eden",
+  "last_name": "Marco",
+  "full_name": "Eden Marco",
+  "follower_count": null,
+  "occupation": "Customer Engineer at Google",
+  "headline": "Customer Engineer @ Google Cloud | Best-selling Udemy Instructor",
+  "summary": "Backend developer, Udemy.com best seller instructor\n",
+  "country": "IL",
+  "country_full_name": "Israel",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2022
+      },
+      "ends_at": null,
+      "company": "Google",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+      "title": "Customer Engineer",
+      "description": null,
+      "location": "Tel Aviv, Israel",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/google/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230523%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230523T000631Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=baf77f2607d7139005ae5ce3547eaf9f2af054d39ee368faac2990405b44de12"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2022
+      },
+      "company": "Orca Security",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/orca-security/",
+      "title": "Software Engineer",
+      "description": null,
+      "location": "Tel Aviv, Israel",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/orca-security/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230523%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230523T000631Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=dcf030631e7d2c3d8fbef5fc3d2bf29c5c5b83d1c5e828d99d31a484dc6d468b"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2020
+      },
+      "company": "Wizer",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/get-wizer/",
+      "title": "Software Engineer",
+      "description": null,
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/get-wizer/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230523%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230523T000631Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=d48331ea7864c6c0bd548849b20dd06ae60f618bb0197d688a9f71c6e4c81175"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2019
+      },
+      "company": "Deep Instinct",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/deep-instinct/",
+      "title": "Software Engineer",
+      "description": null,
+      "location": "Tel Aviv Area, Israel",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/deep-instinct/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230523%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230523T000631Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=7a4e84e6fff8a54212c27199be2fd5d1795c88761e903983a17957188150c96d"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2019
+      },
+      "company": "Reichman University (IDC Herzliya)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/school/reichman-university/",
+      "title": "Computer Science Teaching Assistant (External Lecturer)",
+      "description": "* Functional Programming (Including international school)\n* Introduction to Computer Science",
+      "location": "Herzliya Area, Israel",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGg9wJflAQnjw/company-logo_400_400/0/1632054179547?e=1690416000&v=beta&t=wnKrHMYOoMiR6yV4-C8oMXhWEHmS20QRVR6Qat8WrTA"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2017
+      },
+      "ends_at": null,
+      "company": "Udemy",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/udemy/",
+      "title": "Independent Udemy Instructor",
+      "description": "Production and publication of two best-selling courses on the Udemy platform, with a total of 9k+ enrolled students, 800+ ratings and a solid 4.7 ★ rating.",
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/udemy/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230523%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230523T000631Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=0b4c425d00af35970ccfcae9abccd5213735e16deb7f0aed782bda7ef1e21116"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2014
+      },
+      "company": "Israel Defense Forces",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/israeldefenseforces/",
+      "title": "Captain",
+      "description": null,
+      "location": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/israeldefenseforces/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230523%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230523T000631Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=69ed32eeb5ac20b335b724ad16dc0141666d3694ccc675547fd4774119039b5d"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2019
+      },
+      "field_of_study": "Computer Science",
+      "degree_name": "Bachelor’s Degree",
+      "school": "Technion - Israel Institute of Technology",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQG12formuFdJg/company-logo_400_400/0/1559649766994?e=1690416000&v=beta&t=0_rUTMww9U95TDh7RBjiFXp2G-k3hGMSpgt7d2XaRo8",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": null,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [],
+  "similarly_named_profiles": [
+    {
+      "name": "Blumeden Marco Pasquali",
+      "link": "https://it.linkedin.com/in/blumeden-marco-pasquali-44603287",
+      "summary": "--",
+      "location": "Italy"
+    },
+    {
+      "name": "Eden Marco",
+      "link": "https://www.linkedin.com/in/edenmarco",
+      "summary": "Incoming Deloitte Strategy Summer Scholar",
+      "location": "Chapel Hill, NC"
+    },
+    {
+      "name": "Eden Marco",
+      "link": "https://www.linkedin.com/in/eden-marco-8299301ba",
+      "summary": "Student at San Francisco State University",
+      "location": "San Francisco Bay Area"
+    },
+    {
+      "name": "Eden Marco",
+      "link": "https://www.linkedin.com/in/eden-marco-875211201",
+      "summary": "Incoming First Year Optometry Student at Massachusetts College of Pharmacy & Health Sciences",
+      "location": "Greater Boston"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "phone_numbers": [],
+  "social_networking_services": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+}
